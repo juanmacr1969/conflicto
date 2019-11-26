@@ -2,4 +2,5 @@
 
 **El archivo se escribe con Markdown un lenguaje de marcas**
 
+![GitHub Logo](cat.jpg)
 
