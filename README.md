@@ -2,5 +2,5 @@
 
 **El archivo se escribe con Markdown un lenguaje de marcas**
 
-![GitHub Logo](GitHub-Octocat.jpg)
+![GitHub Logo](cat.jpg)
 
